@@ -1,0 +1,15 @@
+/Users/monroegollaher/source/codeworks/CodeMVCLibrary/bin/Debug/net5.0/CodeMVCLibrary.deps.json
+/Users/monroegollaher/source/codeworks/CodeMVCLibrary/bin/Debug/net5.0/CodeMVCLibrary.runtimeconfig.json
+/Users/monroegollaher/source/codeworks/CodeMVCLibrary/bin/Debug/net5.0/CodeMVCLibrary.runtimeconfig.dev.json
+/Users/monroegollaher/source/codeworks/CodeMVCLibrary/bin/Debug/net5.0/CodeMVCLibrary.dll
+/Users/monroegollaher/source/codeworks/CodeMVCLibrary/bin/Debug/net5.0/ref/CodeMVCLibrary.dll
+/Users/monroegollaher/source/codeworks/CodeMVCLibrary/bin/Debug/net5.0/CodeMVCLibrary.pdb
+/Users/monroegollaher/source/codeworks/CodeMVCLibrary/obj/Debug/net5.0/CodeMVCLibrary.csprojAssemblyReference.cache
+/Users/monroegollaher/source/codeworks/CodeMVCLibrary/obj/Debug/net5.0/CodeMVCLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/monroegollaher/source/codeworks/CodeMVCLibrary/obj/Debug/net5.0/CodeMVCLibrary.AssemblyInfoInputs.cache
+/Users/monroegollaher/source/codeworks/CodeMVCLibrary/obj/Debug/net5.0/CodeMVCLibrary.AssemblyInfo.cs
+/Users/monroegollaher/source/codeworks/CodeMVCLibrary/obj/Debug/net5.0/CodeMVCLibrary.csproj.CoreCompileInputs.cache
+/Users/monroegollaher/source/codeworks/CodeMVCLibrary/obj/Debug/net5.0/CodeMVCLibrary.dll
+/Users/monroegollaher/source/codeworks/CodeMVCLibrary/obj/Debug/net5.0/ref/CodeMVCLibrary.dll
+/Users/monroegollaher/source/codeworks/CodeMVCLibrary/obj/Debug/net5.0/CodeMVCLibrary.pdb
+/Users/monroegollaher/source/codeworks/CodeMVCLibrary/obj/Debug/net5.0/CodeMVCLibrary.genruntimeconfig.cache
